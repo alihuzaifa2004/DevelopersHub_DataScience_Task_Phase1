@@ -44,7 +44,9 @@ This project demonstrates the practical application of Python and popular data s
     ├── screenshots/
     │   ├── output1.png
     │   ├── output2.png
-    │   └── output3.png
+    │   ├── output3.png
+    │   ├── output4.png
+    │   └── output5.png
     │
     ├── requirements.txt
     └── README.md
