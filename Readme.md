@@ -86,21 +86,32 @@ Generated meaningful observations and conclusions from the data analysis process
 
 ## 📸 Project Screenshots
 
-### 🖥️ Output 1
+### 🖥️ Output Task 1
 
 ![Output 1](screenshots/output1.png)
 
 ---
 
-### 📊 Output 2
+### 📊 Output Task 2
 
 ![Output 2](screenshots/output2.png)
 
 ---
 
-### 📈 Output 3
+### 📈 Output Task 3
 
 ![Output 3](screenshots/output3.png)
+
+---
+
+### 📈 Output Task 4
+
+![Output 4](screenshots/output4.png)
+
+---
+### 📈 Output Task 5
+
+![Output 5](screenshots/output5.png)
 
 ---
 
