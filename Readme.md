@@ -1,11 +1,5 @@
-```markdown
-# 📊 DevelopersHub Data Science Internship - Phase 1
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-green?style=for-the-badge)
+# 📊 DevelopersHub Data Science Internship - Phase 1
 
 ## 🚀 Project Overview
 
@@ -39,21 +33,21 @@ This project demonstrates the practical application of Python and popular data s
 
 ```
 
-DevelopersHub_DataScience_Task_Phase1/
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebook/
-│   └── analysis.ipynb
-│
-├── screenshots/
-│   ├── output1.png
-│   ├── output2.png
-│   └── output3.png
-│
-├── requirements.txt
-└── README.md
+    DevelopersHub_DataScience_Task_Phase1/
+    │
+    ├── data/
+    │   └── dataset.csv
+    │
+    ├── notebook/
+    │   └── analysis.ipynb
+    │
+    ├── screenshots/
+    │   ├── output1.png
+    │   ├── output2.png
+    │   └── output3.png
+    │
+    ├── requirements.txt
+    └── README.md
 
 ````
 
