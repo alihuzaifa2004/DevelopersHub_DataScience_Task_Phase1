@@ -179,7 +179,7 @@ https://github.com/alihuzaifa2004
 
 ### LinkedIn
 
-https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+www.linkedin.com/in/ali-huzaifa-5381b8202
 
 ---
 
